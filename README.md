@@ -45,6 +45,7 @@
 + Imam Ferianto : [ferianto](https://ferianto.id/)
 
 ## J
++ Jefry Dewangga : [@jefrydco](https://jefrydco.id/blog)
 
 ## K
 
@@ -53,6 +54,7 @@
 ## M
 
 ## N
++ Nusendra Hanggarawan : [@nusendra](https://nusendra.com/)
 
 ## O
 + Onno W Purbo : [@onnowpurbo](http://onnocenter.or.id/)
