@@ -52,7 +52,7 @@
 ## L
 
 ## M
-
++ Muhammad Syafrizal : [@ikkaru19](https://ikaru19.io)
 ## N
 + Nusendra Hanggarawan : [@nusendra](https://nusendra.com/)
 
